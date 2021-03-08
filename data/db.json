@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        { 
+            "title": "My new website",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae laboriosam cumque labore? Eveniet eligendi ipsam placeat aut. Obcaecati, magnam autem tempore quidem maiores corporis, necessitatibus nesciunt quam quos, voluptatum minima nisi debitis id repellendus nulla possimus hic magni delectus. Consequatur, non minima voluptas vel atque neque, vero quibusdam corporis totam nisi molestias dolorum necessitatibus alias sed placeat beatae sit ipsum similique, magnam ex. Vero reprehenderit tempore temporibus est ut fuga dolores dicta veniam iusto, molestiae iste ipsum iure ullam nesciunt ipsa excepturi. Obcaecati ducimus dignissimos maiores labore laboriosam delectus est distinctio architecto aut, molestiae quo quae vero sed! Veniam, sapiente!",
+            "author": "Hasnain",
+            "id": 1 
+        },
+        {
+            "title": "Welcome party!",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae laboriosam cumque labore? Eveniet eligendi ipsam placeat aut. Obcaecati, magnam autem tempore quidem maiores corporis, necessitatibus nesciunt quam quos, voluptatum minima nisi debitis id repellendus nulla possimus hic magni delectus. Consequatur, non minima voluptas vel atque neque, vero quibusdam corporis totam nisi molestias dolorum necessitatibus alias sed placeat beatae sit ipsum similique, magnam ex. Vero reprehenderit tempore temporibus est ut fuga dolores dicta veniam iusto, molestiae iste ipsum iure ullam nesciunt ipsa excepturi. Obcaecati ducimus dignissimos maiores labore laboriosam delectus est distinctio architecto aut, molestiae quo quae vero sed! Veniam, sapiente!",
+            "author": "Qureshi",
+            "id": 2 
+        }
+    ]
+}
